@@ -29,6 +29,9 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      
+      ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
+
 </p>
 
 ### 📫 How to reach me?
@@ -37,5 +40,4 @@
 - [My personal portfolio](http://ongoinwork.com) 
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
 
