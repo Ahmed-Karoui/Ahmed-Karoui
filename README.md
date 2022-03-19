@@ -39,3 +39,6 @@
 - My personal blog- [Garima Codes](https://garimasingh.netlify.app/)
 - [Medium](https://medium.com/@garingh128)
 - [Sourcerer](https://sourcerer.io/garimasingh128)
+
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
