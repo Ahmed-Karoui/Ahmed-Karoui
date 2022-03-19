@@ -38,6 +38,6 @@
 - [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
 - [My personal portfolio](http://ongoinwork.com) 
 
-<div align="center">
+<div style="align-items: center;">
       ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
 </div>
