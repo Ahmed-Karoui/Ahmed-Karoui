@@ -40,5 +40,5 @@
 - [Medium](https://medium.com/@garingh128)
 - [Sourcerer](https://sourcerer.io/garimasingh128)
 
-
-<center>![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)</center>
+<p align="center">
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)</p>
