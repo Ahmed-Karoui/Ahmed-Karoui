@@ -30,7 +30,6 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       
-      ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
 
 </p>
 
@@ -39,5 +38,6 @@
 - [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
 - [My personal portfolio](http://ongoinwork.com) 
 
-
-
+<div align="center">
+      ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
+</div>
