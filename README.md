@@ -9,7 +9,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Technical Delivery Manager working at Planisware
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nhxe630zpg35ouxyjizwc7crsdt6qy28oecr9119&rid=giphy.gif&ct=g" width="30">
 - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
 - 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
 - 📖 I am currently reading **Sapiens** by Yuval Noah Harari
