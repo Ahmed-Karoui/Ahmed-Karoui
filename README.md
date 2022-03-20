@@ -12,9 +12,7 @@
       <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nhxe630zpg35ouxyjizwc7crsdt6qy28oecr9119&rid=giphy.gif&ct=g" width="30">
 - 📝 I work as a freelance web developer [My portfolio](http://ongoinwork.com) 
 - 💻 I use daily **.js**, **.bash**,  **.sql** and a lot more
-- 📖 I am currently reading **Sapiens** by Yuval Noah Harari
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
+- 💬 Passionate about Web developpement , video games and Football
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
