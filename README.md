@@ -39,5 +39,5 @@
 - [My personal portfolio](http://ongoinwork.com) 
 
 
-      ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=nord&animation=default&layout=churchill&font=Redressed)
 
