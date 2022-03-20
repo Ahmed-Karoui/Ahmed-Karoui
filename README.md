@@ -13,7 +13,7 @@
 - 📝 I work as a freelance web developer [My portfolio](http://ongoinwork.com) 
 - 💻 I use daily **.js**, **.bash**,  **.sql** and a lot more
 - 💬 Passionate about Web developpement , video games and Football
-- ⚡ Fun fact: Je connais un peu le français
+- ⚡ Curently working on self improvement 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
