@@ -17,7 +17,7 @@
 - 🏦 I'm a Technical Delivery Manager working at Planisware
       <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nhxe630zpg35ouxyjizwc7crsdt6qy28oecr9119&rid=giphy.gif&ct=g" width="30">
 - 📝 I work as a freelance web developer [My portfolio](http://ongoinwork.com) 
-- 💻 I use daily **.js**, **.bash**,  **.sql** and a lot more
+- 💻 I use daily **.js**,**.sql**, **bash scripts**, and a lot more
 - 💬 Passionate about Web developpement , video games and Football
 - ⚡ Curently working on self improvement 
 
