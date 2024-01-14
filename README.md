@@ -4,6 +4,7 @@
 <a href="https://www.linkedin.com/in/ahmed-karoui-914bb714a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 <a href="mailto:karouii.ahmed@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
 </p>
+<br>
 
 <p align="center">
   <img 
@@ -12,6 +13,7 @@
     src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif"
   >
 </p>
+<br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Technical Delivery Manager working at Planisware
